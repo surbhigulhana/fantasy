@@ -79,7 +79,7 @@ form input{
 }
 
 li{list-style: none;
-margin: -10px;
+margin: -5px;
 margin-left: 10px;
 }
 @media(max-width:768px){
